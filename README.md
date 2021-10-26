@@ -16,4 +16,4 @@
 * git push origin master
 * git remote ver los remotos
 * git push para publicar
-* git pull para actualizar
+* git pull se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido
